@@ -1,0 +1,23 @@
+-----------------------------------------------------------A FEW COLOUR CODES--------------------------------------------------------------------------------
+
+
+Red - #FF0000
+Cyan - #00FFFF
+Blue - #0000FF
+DarkBlue - #00008B
+LightBlue - #ADD8E6
+Purple - #800080
+Yellow - #FFFF00
+Lime - #00FF00
+Magneta - #FF00FF
+Pink - #FFC0CB
+White - #FFFFFF
+Silver - #C0C0C0
+Grey - #808080
+Black - #000000
+Orange - #FFA500
+Brown - #A52A2A
+Maroon - #800000
+Green - #008000
+Olive - 	#808000
+Aquamarine - #7FFD4
