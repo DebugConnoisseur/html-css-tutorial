@@ -1,0 +1,23 @@
+/* Let us try something more complicated now */
+
+body {text-align:left; background: #DDDDDD; padding: 0 10% 0 10%}
+/* Here we're aligning the text in the body towards the left, adding a white background, padding here refers to the space adding inside css element */
+/* There are different types of padding: padding-left, padding-right, padding-top, padding-bottom */
+/* The fastest way to use padding is to write it in the form padding: # # # # ; top,right, bottom, left */
+
+p {font-family: Arial, Helvetica, sans-serif; font-size: 22px}
+/* Same as the old code but we're adding a font size in pixels here */
+h1 {font-family: Arial, Helvetica, sans-serif; color:blue; font-size: 32px; font-weight: bold}
+/* Pretty much the same here as well but we're adding a font weight tag with bold value */
+/* we can use em instead of px for font size, default font size in browser is 1em */
+
+
+/* we can use line-height tag to give the lines look more neat*/
+
+/* Let's use something interesting */
+/* Let's make our links more reactive */
+a.list{font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bolder; text-decoration: none;line-height: 32px;}
+/*We've created a new class in the html file and we're going to use it here to style our links*/
+a.list:link{color: cyan}
+a.list:visited{color:green}
+a.list:hover{color: red; text-decoration:underline}
