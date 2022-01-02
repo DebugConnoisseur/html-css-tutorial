@@ -1,0 +1,16 @@
+/* Let's make a sidebar for our page */
+
+body {text-align:left; background: #DDDDDD; padding: 0 10% 0 10%}
+p {font-family: Arial, Helvetica, sans-serif; font-size: 22px}
+h1 {font-family: Arial, Helvetica, sans-serif; color:blue; font-size: 32px; font-weight: bold}
+
+a.list{font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bolder; text-decoration: none;line-height: 32px;}
+
+a.list:link{color: darkblue}
+a.list:visited{color:green}
+a.list:hover{color: red; text-decoration:underline}
+
+div.main {width: 75%; padding: 0 5% 0 0}
+div.sidebar {width:20% ; float:right ; text-align:center;}
+/* Let's adjust the size and position of our main and sidebar*/
+/* Now when we run the html file in a browser we will notice a new sidebar containing some links */
